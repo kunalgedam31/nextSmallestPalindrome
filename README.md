@@ -40,3 +40,6 @@
     **3**
     **818** 
     **2222**
+
+### NOTE :
+   **JDK must be installed in your system.**
