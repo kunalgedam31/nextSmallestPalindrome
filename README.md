@@ -1,4 +1,4 @@
-# NextSmallestPalindrome
+# Next Smallest Palindrome
 
 **This is a basic java programme which returns the next smallest palindrome number for the given number.**
 
